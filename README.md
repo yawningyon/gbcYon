@@ -1,5 +1,5 @@
 # gbcYon
-
+gbc email: yonathan.zenebe@georgebrown.ca
 ## Links
 - [D2L](https://learn.georgebrown.ca)
 - [AtKlass](https://app.atklass.com)
